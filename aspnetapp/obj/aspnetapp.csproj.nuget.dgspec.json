@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\testgit\\Tumor\\aspnetapp\\aspnetapp.csproj": {}
+    "C:\\Users\\admin\\Desktop\\myproject\\Tumor\\aspnetapp\\aspnetapp.csproj": {}
   },
   "projects": {
-    "D:\\testgit\\Tumor\\aspnetapp\\aspnetapp.csproj": {
+    "C:\\Users\\admin\\Desktop\\myproject\\Tumor\\aspnetapp\\aspnetapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\testgit\\Tumor\\aspnetapp\\aspnetapp.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\myproject\\Tumor\\aspnetapp\\aspnetapp.csproj",
         "projectName": "aspnetapp",
-        "projectPath": "D:\\testgit\\Tumor\\aspnetapp\\aspnetapp.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\myproject\\Tumor\\aspnetapp\\aspnetapp.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\testgit\\Tumor\\aspnetapp\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\myproject\\Tumor\\aspnetapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
